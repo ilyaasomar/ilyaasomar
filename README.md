@@ -59,9 +59,3 @@ src="https://img.shields.io/twitter/follow/ilyaasomar07?logo=twitter&style=for-t
 <a href="https://www.github.com/ilyaasomar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
 <a href="https://dribbble.com/ilyaasomar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble.svg" width="32" height="32" /></a> 
  </p>
-
-### Badges
-
-### Support Me
-
-<a href="https://www.buymeacoffee.com/ilyaasomar"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
