@@ -7,7 +7,7 @@ Full Stack Developer
 I'm Ilyaas Omar a full-stack developer building my version of the digital world one step at a time and clients project. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
 
 * 🌍  I'm based in Mogadishu, Somalia
-* 🖥️  See my portfolio at [Hirsad](http://hirsad.so)
+* 🖥️  See my portfolio at [Hirsad](http://hirsad.com)
 * ✉️  You can contact me at [ilyaasomar10@gmail.com](mailto:ilyaasomar10@gmail.com)
 * 🚀  I'm currently working on [Hirsad](http://hirsad.so)
 * 🧠  I'm learning Web 3.0, Blockchain, Flutter
