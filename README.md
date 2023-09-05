@@ -13,8 +13,8 @@ I'm Ilyaas Omar a full-stack developer building my version of the digital world 
 * 🧠  I'm learning Web 3.0, Blockchain, React Native
 * ⚡  i'm the fastest man a life but not tell onyone :)
 
-<a href="https://www.twitter.com/ilyaasomar07" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/ilyaasomar07?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+<a href="https://www.linkedin.com/in/ilyas-omar-667b88171" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/ilyas-omar-667b88171?logo=linkedin&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
 ### Skills
