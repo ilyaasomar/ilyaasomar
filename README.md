@@ -10,7 +10,7 @@ I'm Ilyaas Omar a full-stack developer building my version of the digital world 
 * 🖥️  See my portfolio at [Hirsad](http://hirsad.com)
 * ✉️  You can contact me at [ilyaasomar10@gmail.com](mailto:ilyaasomar10@gmail.com)
 * 🚀  I'm currently working on [Hirsad](http://hirsad.com)
-* 🧠  I'm learning Web 3.0, Blockchain, Flutter
+* 🧠  I'm learning Web 3.0, Blockchain, React Native
 * 🤝  I'm open to collaborating on Ecommerce Website
 * ⚡  i'm the fastest man a life but not tell onyone :)
 
