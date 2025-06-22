@@ -8,7 +8,7 @@ I'm Ilyaas Omar a full-stack developer building my version of the digital world 
 
 * 🌍  I'm based in Mogadishu, Somalia
 * 🖥️  See my portfolio at [Hirsad](http://hirsad.com)
-* ✉️  You can contact me at [ilyaasomar10@gmail.com](mailto:ilyasomar5577@gmail.com)
+* ✉️  You can contact me at [ilyasomar5577@gmail.com](mailto:ilyasomar5577@gmail.com)
 * 🚀  I'm currently working on [Hirsad](http://hirsad.com)
 * ⚡  i'm the fastest man a life but not tell onyone :)
 
