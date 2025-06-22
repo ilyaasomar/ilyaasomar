@@ -7,10 +7,9 @@ Full Stack Developer
 I'm Ilyaas Omar a full-stack developer building my version of the digital world one step at a time and clients project. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
 
 * 🌍  I'm based in Mogadishu, Somalia
-* 🖥️  See my portfolio at [Hirsad](http://hirsad.com)
+* 🖥️  See my portfolio (https://ilyasdev.vercel.app/)
 * ✉️  You can contact me at [ilyasomar5577@gmail.com](mailto:ilyasomar5577@gmail.com)
-* 🚀  I'm currently working on [Hirsad](http://hirsad.com)
-* ⚡  i'm the fastest man a life but not tell onyone :)
+* 🌱 Passionate About Building apps that solve real-world problems
 
 <a href="https://www.linkedin.com/in/ilyas-omar-667b88171" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/ilyas-omar-667b88171?logo=linkedin&style=for-the-badge&color=0891b2&labelColor=1c1917"
