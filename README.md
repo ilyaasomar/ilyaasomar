@@ -8,9 +8,8 @@ I'm Ilyaas Omar a full-stack developer building my version of the digital world 
 
 * 🌍  I'm based in Mogadishu, Somalia
 * 🖥️  See my portfolio at [Hirsad](http://hirsad.com)
-* ✉️  You can contact me at [ilyaasomar10@gmail.com](mailto:ilyaasomar10@gmail.com)
+* ✉️  You can contact me at [ilyaasomar10@gmail.com](mailto:ilyasomar5577@gmail.com)
 * 🚀  I'm currently working on [Hirsad](http://hirsad.com)
-* 🧠  I'm learning Web 3.0, Blockchain, React Native
 * ⚡  i'm the fastest man a life but not tell onyone :)
 
 <a href="https://www.linkedin.com/in/ilyas-omar-667b88171" target="_blank" rel="noreferrer"><img
@@ -53,7 +52,7 @@ src="https://img.shields.io/twitter/follow/ilyas-omar-667b88171?logo=linkedin&st
 <a href="https://www.linkedin.com/in/ilyas-omar-667b88171" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
 <a href="http://www.instagram.com/ilyaas_haile" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
 <a href="https://www.facebook.com/xayle.cumar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> 
-<a href="https://www.twitter.com/ilyaasomar07" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+<a href="https://www.twitter.com/ilyashaile" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 <a href="https://discord.com/channels/712923837922148456/712923838362550294" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> 
 <a href="https://www.github.com/ilyaasomar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
 <a href="https://dribbble.com/ilyaasomar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble.svg" width="32" height="32" /></a> 
