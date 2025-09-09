@@ -8,7 +8,6 @@ I'm Ilyaas Omar a full-stack developer building my version of the digital world 
 
 * 🌍  I'm based in Mogadishu, Somalia
 * 🖥️  See my [portfolio](https://ilyasdev.vercel.app/)
-* ✉️  You can contact me at [ilyasomar5577@gmail.com](mailto:ilyasomar5577@gmail.com)
 * 🌱 Passionate About Building apps that solve real-world problems
 
 <a href="https://www.linkedin.com/in/ilyas-omar-667b88171" target="_blank" rel="noreferrer"><img
