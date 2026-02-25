@@ -4,7 +4,7 @@
 Full Stack Developer
 --------------------
 
-I'm Ilyaas Omar a full-stack developer building my version of the digital world one step at a time and clients project. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
+Passionate about web apps, AI, and creative coding, exploring new ways to bring ideas to life using React, Next.js, TypeScript, Tailwind CSS, and more, building practical projects from planning and design to real-world implementation.
 
 * 🌍  I'm based in Mogadishu, Somalia
 * 🖥️  See my [portfolio](https://ilyasdev.vercel.app/)
