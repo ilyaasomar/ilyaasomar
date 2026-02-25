@@ -6,10 +6,6 @@ Full Stack Developer
 
 Passionate about web apps, AI, and creative coding, exploring new ways to bring ideas to life using React, Next.js, TypeScript, Tailwind CSS, and more, building practical projects from planning and design to real-world implementation.
 
-* 🌍  I'm based in Mogadishu, Somalia
-* 🖥️  See my [portfolio](https://ilyasdev.vercel.app/)
-* 🌱 Passionate About Building apps that solve real-world problems
-
 <a href="https://www.linkedin.com/in/ilyas-omar-667b88171" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/ilyas-omar-667b88171?logo=linkedin&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
@@ -41,10 +37,7 @@ src="https://img.shields.io/twitter/follow/ilyas-omar-667b88171?logo=linkedin&st
 
 <p align="left"> 
 <a href="https://www.linkedin.com/in/ilyas-omar-667b88171" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
-<a href="http://www.instagram.com/ilyaas_haile" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-<a href="https://www.facebook.com/xayle.cumar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> 
-<a href="https://www.twitter.com/ilyashaile" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+ <a href="https://www.twitter.com/ilyashaile" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 <a href="https://discord.com/channels/712923837922148456/712923838362550294" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> 
-<a href="https://www.github.com/ilyaasomar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
-<a href="https://dribbble.com/ilyaasomar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble.svg" width="32" height="32" /></a> 
+
  </p>
